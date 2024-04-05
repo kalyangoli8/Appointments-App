@@ -1,6 +1,6 @@
 // Write your code here
 import {Component} from 'react'
-import {v4} from 'UUid'
+import {v4} from 'uuid'
 import {format} from 'date-fns'
 
 import AppointmentItem from '../AppointmentItem'
